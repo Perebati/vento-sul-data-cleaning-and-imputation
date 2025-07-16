@@ -1,0 +1,17 @@
+{
+  "approach": "hybrid",
+  "primary_data": "high_quality_datasets",
+  "secondary_data": "concatenated_compatible",
+  "resampling_freq": "30T",
+  "max_interpolation_gap": "2H",
+  "min_sequence_length": 48,
+  "sequence_overlap": 0.5,
+  "train_val_test_split": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "total_datasets": 22,
+  "high_quality_datasets": 18,
+  "total_points": 41074
+}

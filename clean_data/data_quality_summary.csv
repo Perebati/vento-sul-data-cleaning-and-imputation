@@ -1,0 +1,4 @@
+quality_level,filename,records,completeness,avg_confidence,period_start,period_end,continuous_periods
+high_quality,wind_data_high_quality.csv,41598,86.84342379958247,0.9987859993268907,2021-11-10 17:20:00,2022-10-09 08:30:00,0
+medium_quality,wind_data_medium_quality.csv,42957,89.68058455114823,0.9870882510417394,2021-11-10 17:20:00,2022-10-09 08:30:00,0
+all_filled,wind_data_all_filled.csv,47900,100.0,0.9265933020180931,2021-11-10 17:20:00,2022-10-09 08:30:00,0

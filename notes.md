@@ -1,1 +1,2 @@
 > Converted all .txt files to .csv
+> Para tratar valores nulos foi escolhido a estratégia Kallman Smoothing + Sazonalidade devido a estudos que comprovam sua eficiencia: "Em teste de 17 anos de dados horários, o Seasonal-Decomposition + Kalman foi o menor RMSE entre 13 técnicas — superou spline e Stineman em séries com gaps de 29 h"

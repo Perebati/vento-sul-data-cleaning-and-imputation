@@ -1,0 +1,10 @@
+{
+  "original_records": "40979",
+  "total_records": 47900,
+  "original_completeness": 0.8555114822546973,
+  "filled_by_interpolation": "942",
+  "filled_by_seasonal_pattern": "1321",
+  "filled_by_seasonal_model": "4943",
+  "final_completeness": 1.0,
+  "processing_date": "2025-07-15T23:12:18.489810"
+}
