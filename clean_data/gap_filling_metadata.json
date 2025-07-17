@@ -4,7 +4,7 @@
   "original_completeness": 0.8555114822546973,
   "filled_by_interpolation": "942",
   "filled_by_seasonal_pattern": "1321",
-  "filled_by_seasonal_model": "4943",
+  "filled_by_seasonal_model": "0",
   "final_completeness": 1.0,
-  "processing_date": "2025-07-15T23:12:18.489810"
+  "processing_date": "2025-07-17T20:29:30.704493"
 }
