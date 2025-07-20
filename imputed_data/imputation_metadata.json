@@ -1,0 +1,68 @@
+{
+  "processing_date": "2025-07-20T03:38:49.423020",
+  "original_shape": [
+    47900,
+    33
+  ],
+  "final_shape": [
+    47900,
+    66
+  ],
+  "initial_completeness": 85.2316062503954,
+  "final_completeness": 97.98665148351996,
+  "improvement": 12.755045233124562,
+  "total_cells_filled": 202150,
+  "short_gaps_filled": 0,
+  "long_gaps_filled": 202150,
+  "overall_confidence": 0.9035355151198836,
+  "quality_distribution": {
+    "high_quality_pct": 85.19801353830582,
+    "medium_quality_pct": 2.8905548174859237,
+    "low_quality_pct": 11.911431644208262
+  },
+  "variable_groups": {
+    "wind_speed": [
+      "ws40",
+      "ws50",
+      "ws60",
+      "ws70",
+      "ws80",
+      "ws90",
+      "ws100",
+      "ws110",
+      "ws120",
+      "ws130",
+      "ws140"
+    ],
+    "vertical_wind": [
+      "v40",
+      "v50",
+      "v60",
+      "v70",
+      "v80",
+      "v90",
+      "v100",
+      "v110",
+      "v120",
+      "v130",
+      "v140"
+    ],
+    "wind_direction": [
+      "dir40",
+      "dir50",
+      "dir60",
+      "dir70",
+      "dir80",
+      "dir90",
+      "dir100",
+      "dir110",
+      "dir120",
+      "dir130",
+      "dir140"
+    ]
+  },
+  "imputation_methods": {
+    "short_gaps": "Linear interpolation + Kalman filter (\u22646h)",
+    "long_gaps": "Seasonal model with hourly/daily patterns (>6h)"
+  }
+}
